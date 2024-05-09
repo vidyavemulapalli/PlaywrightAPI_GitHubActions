@@ -1,3 +1,4 @@
+#playwright Allure Report to GitHub Pages
 name: Playwright-allure-report
 
 on:
