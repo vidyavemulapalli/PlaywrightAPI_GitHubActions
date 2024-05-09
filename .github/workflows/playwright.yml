@@ -27,7 +27,7 @@ jobs:
         run: npm ci --verbose
 
       - name: Run tests
-        run: npx playwright test
+        run: npm run test
         continue-on-error: true
     
       - name: Load test report history
